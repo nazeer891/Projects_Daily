@@ -24,3 +24,13 @@ Difficulty Split:
 * **Description:** Converts temperatures between Celsius, Fahrenheit, and Kelvin based on user choice.
 * **Concepts/Libraries:** Methods, basic data types (`double`), input validation.
 **Status**: Done
+
+* **Day 4: Unit Converter**
+* **Description:** Converts physical units like meters to feet, kilograms to pounds, and liters to gallons.
+* **Concepts/Libraries:** Constants (`final`), modular method architecture, error checking.
+**Status**: Done
+
+* **Day 5: Fibonacci Sequence Generator**
+* **Description:** Generates the Fibonacci sequence up to a user-specified number $n$ using iterative and recursive approaches.
+* **Concepts/Libraries:** Recursion, iterative loops, `BigInteger` for large numbers.
+**Status**: Done
